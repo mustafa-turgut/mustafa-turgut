@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafa-turgut
-- 👀 I’m interested in Cyber Security, Object Oriented Design
+- 👀 I’m interested in Cyber Security and Object Oriented Design
 
 <!---
 mustafa-turgut/mustafa-turgut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
